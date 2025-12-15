@@ -39,9 +39,9 @@ Here are the key tools and technologies I use daily, organized by area of focus:
     
     > **Tech Stack:** HTML5, CSS3, and JavaScript.
     
-    > ➡️ [Visit Live Demo: https://blcortes.netlify.app/] 
+    > ➡️ Visit Live Demo: https://blcortes.netlify.app/
 
-   > ➡️ [Code on GitHub: https://github.com/iMoraies/lmbarbershop]
+   > ➡️ Code on GitHub: https://github.com/iMoraies/lmbarbershop
 
 * **Appointment Booking App** - *A Vanilla JavaScript application for simple booking.*
     > **Focus:** Demonstrating **junior-level front-end skills**, basic state management, clean architecture, and local storage persistence.
