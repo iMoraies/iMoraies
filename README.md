@@ -18,16 +18,22 @@ Here are the key tools and technologies I use daily, organized by area of focus:
 
 #### Front-end
 <p align="left">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js," />
-    </a>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,figma" />
 </p>
 
-#### Python
+#### Back-end (Python)
 <p align="left">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,git" />
-    </a>
+    <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+#### Tools
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+#### Currently learning
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=typescript,docker" />
 </p>
 
 ---
