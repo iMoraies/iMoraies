@@ -48,7 +48,7 @@ Here are the key tools and technologies I use daily, organized by area of focus:
     
     > **Tech Stack:** HTML5, CSS3, and Vanilla JavaScript (ES6).
     
-    > ➡️ [Code on GitHub: https://github.com/iMoraies/appointment-bookin-app]
+    > ➡️ Code on GitHub: https://github.com/iMoraies/appointment-bookin-app
 
 ---
 
