@@ -36,13 +36,18 @@ Here are the key tools and technologies I use daily, organized by area of focus:
 
 * **Imbarbershop (Live Site)** - *A Responsive Website for a local business.*
     > **Focus:** Practicing **front-end fundamentals**, responsive design, and layout structuring for small business showcases.
+    
     > **Tech Stack:** HTML5, CSS3, and JavaScript.
+    
     > ➡️ [Visit Live Demo: https://blcortes.netlify.app/] 
-    > ➡️ [Code on GitHub: https://github.com/iMoraies/lmbarbershop]
+
+   > ➡️ [Code on GitHub: https://github.com/iMoraies/lmbarbershop]
 
 * **Appointment Booking App** - *A Vanilla JavaScript application for simple booking.*
     > **Focus:** Demonstrating **junior-level front-end skills**, basic state management, clean architecture, and local storage persistence.
+    
     > **Tech Stack:** HTML5, CSS3, and Vanilla JavaScript (ES6).
+    
     > ➡️ [Code on GitHub: https://github.com/iMoraies/appointment-bookin-app]
 
 ---
