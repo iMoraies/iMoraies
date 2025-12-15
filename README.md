@@ -1,6 +1,6 @@
 # MATHEUS MORAES SILVA | FRONT-END DEVELOPER
 
-## Hi, I'm Matheus Moraes 👋
+## Hi, I'm Matheus Moraes.
 
 I'm a developer passionate about building smooth and engaging digital experiences. My core focus is creating **performant and elegant user interfaces (Front-end)** while leveraging **Python** for robust back-end logic, automation, and data processing.
 
@@ -10,7 +10,6 @@ I'm a developer passionate about building smooth and engaging digital experience
 
 * 🎨 **Front-end Expertise:** Specialized in translating designs into functional code, ensuring top-tier usability and accessibility.
 * 🐍 **Python Power:** I utilize Python for building fast APIs, web scraping, automation scripts, and development routine testing.
-* 💡 **Full-Stack Vision:** I love bridging the gap between front-end aesthetics and back-end efficiency to deliver seamless full-stack applications.
 * 🤝 **Collaboration:** I'm always open to discussing new development challenges or collaborating on open-source projects!
 
 ---
@@ -19,14 +18,14 @@ I'm a developer passionate about building smooth and engaging digital experience
 
 Here are the key tools and technologies I use daily, organized by area of focus:
 
-#### Front-end & UI/UX
+#### Front-end
 <p align="left">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,js," />
     </a>
 </p>
 
-#### Back-end & Python
+#### Python
 <p align="left">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=python,git" />
