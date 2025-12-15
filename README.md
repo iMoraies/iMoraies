@@ -7,7 +7,7 @@ I'm a developer passionate about building smooth and engaging digital experience
 ### About My Work:
 
 * **Front-end Expertise:** Specialized in translating designs into functional code, ensuring top-tier usability and accessibility.
-* **Python Power:** I utilize Python for building fast APIs, web scraping, automation scripts, and development routine testing.
+* **Python Power:** I utilize Python for automation scripts, development routine testing and web scraping.
 * **Collaboration:** I'm always open to discussing new development challenges or collaborating on open-source projects!
 
 ---
