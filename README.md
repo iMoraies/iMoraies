@@ -22,14 +22,14 @@ Here are the key tools and technologies I use daily, organized by area of focus:
 #### Front-end & UI/UX
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,figma" />
+        <img src="https://skillicons.dev/icons?i=html,css,js," />
     </a>
 </p>
 
 #### Back-end & Python
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgres,sqlite,mongodb,git" />
+        <img src="https://skillicons.dev/icons?i=python,git" />
     </a>
 </p>
 
@@ -41,11 +41,12 @@ Here are the key tools and technologies I use daily, organized by area of focus:
     > **Focus:** Practicing **front-end fundamentals**, responsive design, and layout structuring for small business showcases.
     > **Tech Stack:** HTML5, CSS3, and JavaScript.
     > ➡️ [Visit Live Demo: https://blcortes.netlify.app/] 
-    > ➡️ [Code on GitHub: LINK_PARA_O_REPOSITORIO_IMBARBERSHOP]
+    > ➡️ [Code on GitHub: https://github.com/iMoraies/lmbarbershop]
 
 * **Appointment Booking App** - *A Vanilla JavaScript application for simple booking.*
     > **Focus:** Demonstrating **junior-level front-end skills**, basic state management, clean architecture, and local storage persistence.
     > **Tech Stack:** HTML5, CSS3, and Vanilla JavaScript (ES6).
+    > ➡️ [Code on GitHub: https://github.com/iMoraies/appointment-bookin-app]
 
 ---
 
