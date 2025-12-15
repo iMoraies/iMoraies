@@ -41,7 +41,16 @@ Here are the key tools and technologies I use daily, organized by area of focus:
     
     > ➡️ Visit Live Demo: https://blcortes.netlify.app/
 
-   > ➡️ Code on GitHub: https://github.com/iMoraies/lmbarbershop
+    > ➡️ Code on GitHub: https://github.com/iMoraies/lmbarbershop
+   
+* **Smart Appointment Manager (CLI)** 
+    > This project moves from front-end focus into backend structure and data management, simulating the core business logic needed for any appointment system (e.g., a barbershop or salon).
+    
+    > **Focus:** Python Fundamentals, CLI Development, Business Logic Layer, Data Structure Management
+    
+    > **Tech Stack:** Python 3, CLI Interface
+    
+   > ➡️ Code on GitHub: https://github.com/iMoraies/smart-appointment-manager
 
 * **Appointment Booking App** - *A Vanilla JavaScript application for simple booking.*
     > **Focus:** Demonstrating **junior-level front-end skills**, basic state management, clean architecture, and local storage persistence.
