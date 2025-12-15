@@ -1,20 +1,18 @@
-# MATHEUS MORAES SILVA | FRONT-END DEVELOPER
-
-## Hi, I'm Matheus Moraes.
+# Hi there! I'm Matheus Moraes. 👋
 
 I'm a developer passionate about building smooth and engaging digital experiences. My core focus is creating **performant and elegant user interfaces (Front-end)** while leveraging **Python** for robust back-end logic, automation, and data processing.
 
 ---
 
-### 💻 About My Work:
+### About My Work:
 
-* 🎨 **Front-end Expertise:** Specialized in translating designs into functional code, ensuring top-tier usability and accessibility.
-* 🐍 **Python Power:** I utilize Python for building fast APIs, web scraping, automation scripts, and development routine testing.
-* 🤝 **Collaboration:** I'm always open to discussing new development challenges or collaborating on open-source projects!
+* **Front-end Expertise:** Specialized in translating designs into functional code, ensuring top-tier usability and accessibility.
+* **Python Power:** I utilize Python for building fast APIs, web scraping, automation scripts, and development routine testing.
+* **Collaboration:** I'm always open to discussing new development challenges or collaborating on open-source projects!
 
 ---
 
-### 🛠️ My Tech Stack:
+### My Tech Stack:
 
 Here are the key tools and technologies I use daily, organized by area of focus:
 
@@ -34,7 +32,7 @@ Here are the key tools and technologies I use daily, organized by area of focus:
 
 ---
 
-### 🚀 Featured Projects:
+### Featured Projects:
 
 * **Imbarbershop (Live Site)** - *A Responsive Website for a local business.*
     > **Focus:** Practicing **front-end fundamentals**, responsive design, and layout structuring for small business showcases.
@@ -49,7 +47,7 @@ Here are the key tools and technologies I use daily, organized by area of focus:
 
 ---
 
-### 📬 Let's Connect:
+### Let's Connect:
 
 * **Email:** moraeesdeveloper@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/matheus-moraes-26a32622b/
