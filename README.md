@@ -28,7 +28,7 @@ Here are the key tools and technologies I use daily, organized by area of focus:
 
 #### Tools
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs" />
 </p>
 
 #### Currently learning
