@@ -317,7 +317,7 @@ My goal is to evolve toward roles where I can combine **hands-on software engine
 https://madebytheux.com
 
 **LinkedIn:**  
-https://www.linkedin.com/in/matheus-moraes-26a32622b/
+https://www.linkedin.com/in/moraies/
 
 **Email:**  
 moraeesdeveloper@gmail.com
