@@ -1,8 +1,8 @@
 # Hi, I'm Matheus Moraes 👋
 
-Software developer focused on **back-end engineering, business systems, process automation, AI-assisted solutions, and scalable web applications**.
+Software developer focused on **back-end engineering, business systems, process automation, AI-assisted solutions, and digital products**.
 
-My work combines **software engineering, automation, architecture, AI-assisted development, UX/UI, and business problem-solving**. I enjoy understanding real operational needs, translating them into technical solutions, and taking projects from requirements and architecture to implementation, deployment, maintenance, and continuous improvement.
+My work combines **software engineering, automation, architecture, UX/UI, and business problem-solving**. I enjoy understanding real operational needs, translating them into technical solutions, and taking projects from requirements and architecture to implementation, deployment, validation, and continuous improvement.
 
 I currently work with systems used in real business environments, developing applications, automating processes, supporting production solutions, and collaborating with technical and non-technical teams.
 
@@ -12,13 +12,16 @@ I currently work with systems used in real business environments, developing app
 
 ### Software Engineering & Full-Stack Development
 
-I build and maintain web applications, internal systems, ecommerce platforms, APIs, dashboards, and digital products using technologies such as:
+I build and maintain web applications, internal systems, APIs, ecommerce platforms, dashboards, and digital products.
+
+My current stack and project experience includes:
 
 - Node.js
 - TypeScript
 - PHP
 - JavaScript
 - Python
+- React
 - PostgreSQL
 - MySQL
 - HTML & CSS
@@ -26,61 +29,60 @@ I build and maintain web applications, internal systems, ecommerce platforms, AP
 - CodeIgniter 4
 - Prisma ORM
 - REST APIs
-- MVC Architecture
-- Authentication and authorization
-- Database modeling
-- Production deployment and maintenance
+- Authentication & Authorization
+- Database Modeling
+- Production Deployment & Maintenance
 
 ### Automation & Process Improvement
 
-I develop solutions focused on reducing manual work, improving operational efficiency, and connecting systems and business processes.
+I develop solutions focused on reducing manual work, improving operational efficiency, and connecting business processes with technology.
 
-My work includes:
+My work and projects include:
 
-- Business process automation
-- Workflow automation
-- Internal tools
-- Data processing
-- System integrations
-- Automation scripts
-- Digital customer journeys
-- Asynchronous processing
-- Queue-based execution
+- Business Process Automation
+- Workflow Automation
+- Internal Tools
+- System Integrations
+- Automation Scripts
+- Digital Customer Journeys
+- Asynchronous Processing
+- Queue-based Execution
+- Conditional Workflows
 
 ### AI-Assisted Development
 
-I use Artificial Intelligence as part of my engineering workflow to improve productivity, technical analysis, automation, and solution design while maintaining responsibility for understanding, reviewing, testing, and validating generated solutions.
+I use Artificial Intelligence as part of my engineering workflow while maintaining responsibility for understanding, reviewing, testing, and validating the solutions produced.
 
-Areas of application include:
+I use AI for:
 
-- Code analysis and review
+- Code Analysis & Review
 - Debugging
-- Solution design
+- Solution Design
 - Automation
-- Technical research
+- Technical Research
 - Documentation
 - Refactoring
-- AI-assisted workflows
-- Structured classification and decision flows
+- Intelligent Workflows
+- Structured Classification
 
-I am currently deepening my knowledge in **AI agents, AI integrations, and intelligent automation**.
+I'm currently deepening my knowledge in **AI integrations, AI agents, and intelligent automation**.
 
 ### Technical Leadership & Collaboration
 
 Throughout my professional experience, I have worked across technology, operations, design, and business teams.
 
-I have experience with:
+My experience includes:
 
-- Requirements gathering
-- Technical problem solving
-- Project organization
-- Prioritization of demands
-- Backlog organization
-- Knowledge sharing
-- Supporting and guiding less experienced team members
-- Communication with technical and non-technical stakeholders
-- Continuous improvement of systems and processes
-- Translating business needs into technical solutions
+- Requirements Gathering
+- Technical Problem Solving
+- Project Organization
+- Backlog & Demand Prioritization
+- Technical Decision-making
+- Knowledge Sharing
+- Supporting Less Experienced Team Members
+- Communication with Technical and Non-technical Stakeholders
+- Continuous Improvement
+- Translating Business Needs into Technical Solutions
 
 My current career direction is focused on expanding these skills toward **software architecture and technical leadership**.
 
@@ -91,7 +93,7 @@ My current career direction is focused on expanding these skills toward **softwa
 ### Languages & Core Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,php,js,python,html,css,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,php,js,python,react,html,css,mysql,postgres" />
 </p>
 
 ### Back-end & Architecture
@@ -108,10 +110,20 @@ My current career direction is focused on expanding these skills toward **softwa
 - JWT Authentication
 - RBAC
 - Multi-tenant Architecture
+- Modular Monolith Architecture
 - MVC Architecture
-- Database Modeling
 - Asynchronous Processing
 - Workflow Engines
+
+### Front-end
+
+- React
+- TypeScript
+- Vite
+- Responsive Interfaces
+- API Integration
+- Authentication Flows
+- Operational Dashboards
 
 ### Infrastructure & Engineering
 
@@ -122,12 +134,12 @@ My current career direction is focused on expanding these skills toward **softwa
 - Docker
 - Docker Compose
 - GitHub Actions
-- CI/CD fundamentals
+- CI/CD Fundamentals
+- Automated Testing
 - Structured Logging
 - Health & Readiness Checks
 - Metrics
-- OpenTelemetry fundamentals
-- Automated Testing
+- OpenTelemetry Fundamentals
 - Architecture Decision Records
 
 ### Currently Deepening
@@ -137,7 +149,6 @@ My current career direction is focused on expanding these skills toward **softwa
 - Automated Testing
 - CI/CD
 - Observability
-- OpenTelemetry
 - Application Security / OWASP
 - AI Agents
 - Event-driven Architecture
@@ -150,9 +161,23 @@ My current career direction is focused on expanding these skills toward **softwa
 
 ## FlowPilot AI
 
-A multi-tenant workflow automation platform designed to automate business processes using asynchronous execution, integrations, artificial intelligence, and conditional workflows.
+A multi-tenant workflow automation platform built to automate business processes through **workflows, asynchronous processing, conditional logic, integrations, and Artificial Intelligence**.
 
-The project was built as a back-end engineering case study focused on architecture, reliability, security, observability, and technical decision-making.
+FlowPilot started as a back-end engineering project and evolved into a complete demonstrable product with an operational web interface for managing workflows, executions, tasks, audit logs, and system health.
+
+### Product Capabilities
+
+- Workflow creation and management
+- Conditional workflow execution
+- AI-based classification
+- Asynchronous job processing
+- Task generation and management
+- Execution tracking
+- Audit logs
+- Role-based access control
+- Multi-tenant isolation
+- System health monitoring
+- Operational dashboard
 
 ### Engineering Focus
 
@@ -175,11 +200,18 @@ The project was built as a back-end engineering case study focused on architectu
 
 ### Tech Stack
 
-Node.js, TypeScript, Fastify, PostgreSQL, Prisma, Redis, BullMQ, Docker, Vitest, OpenAPI and OpenTelemetry.
+**Back-end:**  
+Node.js, TypeScript, Fastify, PostgreSQL, Prisma, Redis and BullMQ.
+
+**Web Interface:**  
+React, TypeScript and Vite.
+
+**Engineering:**  
+Docker, Vitest, OpenAPI, OpenTelemetry and GitHub Actions.
 
 ### Architecture Highlights
 
-- API and worker separated by asynchronous queue processing
+- API and worker separated through asynchronous queue processing
 - PostgreSQL as the system of record
 - Redis + BullMQ for background execution
 - Workflow version snapshots
@@ -192,15 +224,35 @@ Node.js, TypeScript, Fastify, PostgreSQL, Prisma, Redis, BullMQ, Docker, Vitest,
 - Metrics, health and readiness endpoints
 - Architecture decisions documented through ADRs
 
+### Web Operations Console
+
+The project also includes a web interface designed to make the workflow engine easier to operate and understand.
+
+The interface provides:
+
+- Dashboard with operational information
+- Workflow visualization and management
+- Workflow execution
+- Execution timeline and step results
+- Task management
+- Audit logs
+- System health information
+- Authentication and protected routes
+
 ### Engineering Notes
 
-During real Docker validation, a runtime logging issue was discovered where the production container attempted to load the development-only `pino-pretty` transport.
+During the first complete Docker runtime validation, the API and worker failed because the logging configuration attempted to load `pino-pretty`, which was available only as a development dependency.
 
-The logging architecture was corrected so development uses human-readable logs while production uses structured JSON logging.
+The logging configuration was corrected so:
 
-A regression test was added and the fix was committed as:
+- development uses human-readable logs;
+- production uses structured JSON logs.
 
-`fix(logging): avoid pino-pretty dependency in production runtime`
+A regression test was also added.
+
+This reinforced an important engineering lesson:
+
+**A successful build and passing tests do not replace real runtime validation.**
 
 **Repository:**  
 https://github.com/iMoraies/flowpilot-ai
@@ -211,7 +263,7 @@ https://github.com/iMoraies/flowpilot-ai
 
 Full ecommerce platform designed for a personalized 3D printing business.
 
-The project was structured as a real business application, covering customer experience, administration, product management, checkout, customization, and future integrations.
+The project was structured as a real business application covering customer experience, administration, product management, checkout, customization, and future integrations.
 
 ### Engineering Focus
 
@@ -227,18 +279,18 @@ The project was structured as a real business application, covering customer exp
 
 ### Tech Stack
 
-PHP 8+, CodeIgniter 4, MySQL, HTML, CSS, JavaScript, MVC.
+PHP 8+, CodeIgniter 4, MySQL, HTML, CSS and JavaScript.
 
 ### Main Features
 
-- Product catalog and product detail pages
+- Product catalog and detail pages
 - Product variations and dynamic pricing
 - Shopping cart and checkout
 - Customer registration and account area
 - Administrative dashboard
 - Custom project request workflow
 - Product reviews with image uploads
-- Content/blog management
+- Content and blog management
 - WhatsApp customer relationship flow
 - Architecture prepared for payment gateway integration
 - Architecture prepared for freight service integration
@@ -283,7 +335,7 @@ Web application for appointment scheduling and local data persistence.
 
 ### Tech Stack
 
-HTML5, CSS3, Vanilla JavaScript ES6
+HTML5, CSS3 and Vanilla JavaScript ES6.
 
 **Repository:**  
 https://github.com/iMoraies/appointment-bookin-app
@@ -297,7 +349,6 @@ I'm currently deepening my knowledge in:
 - Software Architecture
 - Back-end Architecture
 - Node.js & TypeScript
-- Docker
 - Automated Testing
 - CI/CD
 - Observability
@@ -305,6 +356,7 @@ I'm currently deepening my knowledge in:
 - AI Agents
 - AI-powered Automation
 - Event-driven Architecture
+- Cloud Architecture
 - Technical Leadership
 
 My goal is to evolve toward roles where I can combine **hands-on software engineering, architecture, automation, AI, business understanding, and technical leadership**.
