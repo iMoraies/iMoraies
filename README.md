@@ -1,140 +1,260 @@
-# Hi there! I'm Matheus Moraes. 👋
+# Hi, I'm Matheus Moraes 👋
 
-I'm a developer focused on building clean, functional, and engaging digital experiences.
+Software developer focused on building digital products, business systems, process automations, and scalable web solutions.
 
-My main interest is creating **modern user interfaces**, structuring real-world web applications, and connecting design, business logic, and back-end systems into products that actually work.
+My work combines **software development, automation, AI-assisted engineering, UX/UI, and business problem-solving**. I enjoy understanding real operational needs, translating them into technical solutions, and taking projects from idea and requirements to implementation, deployment, and continuous improvement.
 
-I enjoy working on projects that combine **Front-end**, **Back-end**, **automation**, and **ecommerce**, always aiming for usability, performance, and a polished user experience.
+I currently work with systems used in real business environments, developing applications, automating processes, supporting production solutions, and collaborating with technical and non-technical teams.
 
 ---
 
-## About My Work
+## What I Work With
 
-- **Front-end Development:** I build responsive, accessible, and visually consistent interfaces using HTML, CSS, JavaScript, and modern UI practices.
-- **Full Stack Development:** I work with PHP, CodeIgniter 4, MySQL, MVC architecture, authentication flows, admin panels, and ecommerce structures.
-- **Python & Automation:** I use Python for automation scripts, web scraping, testing routines, and data processing.
-- **UX/UI Thinking:** I care about layout, user flow, conversion, clarity, and creating interfaces that feel professional.
-- **Continuous Learning:** I’m constantly improving my skills in TypeScript, Docker, Figma, system architecture, and scalable web development.
+### Software Engineering & Full-Stack Development
+
+I build and maintain web applications, internal systems, ecommerce platforms, dashboards, and digital products using technologies such as:
+
+- PHP
+- JavaScript
+- Python
+- MySQL
+- HTML & CSS
+- CodeIgniter 4
+- MVC architecture
+- REST API integrations
+- Authentication and authorization flows
+- Database modeling
+- Production deployment and maintenance
+
+### Automation & Process Improvement
+
+I develop solutions focused on reducing manual work and improving operational efficiency.
+
+My work includes:
+
+- Business process automation
+- Internal tools
+- Data processing
+- Workflow optimization
+- Integration between systems
+- Automation scripts
+- Digital customer journeys
+
+### AI-Assisted Development
+
+I use Artificial Intelligence as part of my development workflow to improve productivity and technical analysis while maintaining responsibility for understanding, reviewing, and validating generated solutions.
+
+Areas of application include:
+
+- Code analysis and review
+- Debugging support
+- Solution design
+- Automation
+- Technical research
+- Documentation
+- Refactoring and productivity workflows
+
+I am currently expanding my knowledge in **AI agents, AI integrations, and intelligent automation**.
+
+### Technical Leadership & Collaboration
+
+Throughout my professional experience, I have worked across technology, operations, design, and business teams.
+
+I have experience with:
+
+- Requirements gathering
+- Technical problem solving
+- Project organization
+- Prioritization of demands
+- Knowledge sharing
+- Supporting and guiding less experienced team members
+- Communication with technical and non-technical stakeholders
+- Continuous improvement of systems and processes
+
+My current career direction is focused on expanding these skills toward **software architecture and technical leadership**.
 
 ---
 
 ## Tech Stack
 
-### Front-end
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+### Languages & Core Technologies
 
-### Back-end
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=php,python,mysql" />
+  <img src="https://skillicons.dev/icons?i=php,js,python,html,css,mysql" />
 </p>
 
 ### Frameworks & Architecture
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-</p>
 
 - CodeIgniter 4
 - MVC Architecture
-- REST/API integration structure
+- REST API integrations
 - Session-based authentication
-- Ecommerce flows
+- Database modeling
+- Ecommerce architecture
 - Admin dashboards
-- MySQL database modeling
+- Production web applications
 
 ### Tools
+
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ### Currently Learning
+
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=typescript,docker,figma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,typescript,docker" />
 </p>
 
+- Software Architecture
+- Automated Testing
+- CI/CD
+- Observability
+- Application Security
+- AI Agents
+- Scalable Back-end Architecture
+
 ---
 
-## Featured Projects
+# Featured Projects
 
-### 3D Line Ecommerce Platform
+## 3D Line Ecommerce Platform
 
-A full ecommerce platform for personalized 3D printing products, built with a real MVC structure and premium UX/UI approach.
+Full ecommerce platform designed for a personalized 3D printing business.
 
-**Focus:**  
-Full Stack Development, CodeIgniter 4, ecommerce architecture, admin dashboard, customer area, product customization, cart, checkout, coupons, custom project requests, and payment gateway preparation.
+The project was structured as a real business application, covering customer experience, administration, product management, checkout, customization, and future integrations.
 
-**Tech Stack:**  
-PHP 8+, CodeIgniter 4, MySQL, HTML, CSS, JavaScript, MVC, Asaas payment structure, Correios/Freight service structure.
+### Engineering Focus
 
-**Main Features:**
+- Full-Stack Development
+- MVC Architecture
+- Database modeling
+- Ecommerce flows
+- Authentication
+- Administrative tools
+- Product customization
+- Business rules
+- Integration-ready architecture
 
-- Premium white-mode ecommerce interface
+### Tech Stack
+
+PHP 8+, CodeIgniter 4, MySQL, HTML, CSS, JavaScript, MVC.
+
+### Main Features
+
 - Product catalog and product detail pages
-- Product variations and dynamic price preview
-- Cart and checkout flow
+- Product variations and dynamic pricing
+- Shopping cart and checkout
 - Customer registration and account area
-- Admin dashboard
-- Custom project request system
-- Reviews with product images
-- Blog/content area for production backstage
-- WhatsApp CRM structure
-- Prepared integration with Asaas
-- Prepared freight structure for Correios API
+- Administrative dashboard
+- Custom project request workflow
+- Product reviews with image uploads
+- Content/blog management
+- WhatsApp customer relationship flow
+- Architecture prepared for payment gateway integration
+- Architecture prepared for freight service integration
 
-> Code on GitHub: https://github.com/iMoraies/3D-Line-E-Commerce-Project
-
----
-
-### Imbarbershop Live Site
-
-A responsive website created for a local business.
-
-**Focus:**  
-Front-end fundamentals, responsive design, layout structure, and small business presentation.
-
-**Tech Stack:**  
-HTML5, CSS3, JavaScript.
-
-> Live Demo: https://blcortes.netlify.app/  
-> Code on GitHub: https://github.com/iMoraies/lmbarbershop
+**Repository:**  
+https://github.com/iMoraies/3D-Line-E-Commerce-Project
 
 ---
 
-### Smart Appointment Manager CLI
+## Smart Appointment Manager CLI
 
-A Python CLI project that simulates the business logic of an appointment management system.
+Python application that models the business logic of an appointment management system.
 
-**Focus:**  
-Python fundamentals, CLI development, business logic, and data structure management.
+### Engineering Focus
 
-**Tech Stack:**  
-Python 3, CLI Interface.
+- Business rules
+- Data structures
+- Application flow
+- Python fundamentals
+- CLI architecture
 
-> Code on GitHub: https://github.com/iMoraies/smart-appointment-manager
+### Tech Stack
+
+Python 3
+
+**Repository:**  
+https://github.com/iMoraies/smart-appointment-manager
 
 ---
 
-### Appointment Booking App
+## Appointment Booking App
 
-A Vanilla JavaScript application for simple appointment booking.
+Web application for appointment scheduling and local data persistence.
 
-**Focus:**  
-Junior-level front-end skills, basic state management, clean architecture, and local storage persistence.
+### Engineering Focus
 
-**Tech Stack:**  
-HTML5, CSS3, Vanilla JavaScript ES6.
+- Application state
+- Business logic
+- Client-side persistence
+- User flow
+- Clean code organization
 
-> Code on GitHub: https://github.com/iMoraies/appointment-bookin-app
+### Tech Stack
+
+HTML5, CSS3, Vanilla JavaScript ES6
+
+**Repository:**  
+https://github.com/iMoraies/appointment-bookin-app
+
+---
+
+## Barber Shop Business Website
+
+Responsive website developed for a local business.
+
+### Focus
+
+- Responsive web development
+- Business-oriented UI
+- User experience
+- Performance
+- Mobile-first layout
+
+### Tech Stack
+
+HTML5, CSS3, JavaScript
+
+**Live Demo:**  
+https://blcortes.netlify.app/
+
+**Repository:**  
+https://github.com/iMoraies/lmbarbershop
+
+---
+
+# Current Engineering Focus
+
+I'm currently deepening my knowledge in:
+
+- Software Architecture
+- Back-end Architecture
+- Node.js & TypeScript
+- Docker
+- Automated Testing
+- CI/CD
+- Observability
+- Application Security
+- AI Agents
+- AI-powered automation
+- Technical Leadership
+
+My goal is to evolve toward roles where I can combine **hands-on software engineering, architecture, automation, AI, business understanding, and technical leadership**.
 
 ---
 
 ## Let's Connect
 
-- **Email:** moraeesdeveloper@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/matheus-moraes-26a32622b/
-- **GitHub:** https://github.com/iMoraies
+**Portfolio:**  
+https://madebytheux.com
 
----
+**LinkedIn:**  
+https://www.linkedin.com/in/matheus-moraes-26a32622b/
 
-**Author:** Matheus Moraes
+**Email:**  
+moraeesdeveloper@gmail.com
+
+**GitHub:**  
+https://github.com/iMoraies
