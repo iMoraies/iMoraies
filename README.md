@@ -1,96 +1,29 @@
 # Hi, I'm Matheus Moraes 👋
 
+### Software Engineering | Automation & AI | Technical Leadership
+
 Software developer focused on **back-end engineering, business systems, process automation, AI-assisted solutions, and digital products**.
 
-My work combines **software engineering, automation, architecture, UX/UI, and business problem-solving**. I enjoy understanding real operational needs, translating them into technical solutions, and taking projects from requirements and architecture to implementation, deployment, validation, and continuous improvement.
+My work combines **software engineering, architecture, automation, UX/UI, observability, and business problem-solving**. I enjoy understanding real operational needs, translating them into technical solutions, and taking projects from requirements and architecture to implementation, deployment, validation, and continuous improvement.
 
 I currently work with systems used in real business environments, developing applications, automating processes, supporting production solutions, and collaborating with technical and non-technical teams.
 
 ---
 
-## What I Work With
+## About Me
 
-### Software Engineering & Full-Stack Development
-
-I build and maintain web applications, internal systems, APIs, ecommerce platforms, dashboards, and digital products.
-
-My current stack and project experience includes:
-
-- Node.js
-- TypeScript
-- PHP
-- JavaScript
-- Python
-- React
-- PostgreSQL
-- MySQL
-- HTML & CSS
-- Fastify
-- CodeIgniter 4
-- Prisma ORM
-- REST APIs
-- Authentication & Authorization
-- Database Modeling
-- Production Deployment & Maintenance
-
-### Automation & Process Improvement
-
-I develop solutions focused on reducing manual work, improving operational efficiency, and connecting business processes with technology.
-
-My work and projects include:
-
-- Business Process Automation
-- Workflow Automation
-- Internal Tools
-- System Integrations
-- Automation Scripts
-- Digital Customer Journeys
-- Asynchronous Processing
-- Queue-based Execution
-- Conditional Workflows
-
-### AI-Assisted Development
-
-I use Artificial Intelligence as part of my engineering workflow while maintaining responsibility for understanding, reviewing, testing, and validating the solutions produced.
-
-I use AI for:
-
-- Code Analysis & Review
-- Debugging
-- Solution Design
-- Automation
-- Technical Research
-- Documentation
-- Refactoring
-- Intelligent Workflows
-- Structured Classification
-
-I'm currently deepening my knowledge in **AI integrations, AI agents, and intelligent automation**.
-
-### Technical Leadership & Collaboration
-
-Throughout my professional experience, I have worked across technology, operations, design, and business teams.
-
-My experience includes:
-
-- Requirements Gathering
-- Technical Problem Solving
-- Project Organization
-- Backlog & Demand Prioritization
-- Technical Decision-making
-- Knowledge Sharing
-- Supporting Less Experienced Team Members
-- Communication with Technical and Non-technical Stakeholders
-- Continuous Improvement
-- Translating Business Needs into Technical Solutions
-
-My current career direction is focused on expanding these skills toward **software architecture and technical leadership**.
+- 🎓 Graduate in **Systems Analysis and Development**
+- 💻 Working with **software development, automation, systems, and digital products**
+- 🧠 Deepening my knowledge in **Software Architecture, AI, Observability, Security, and Technical Leadership**
+- 🏗️ Building portfolio projects focused on real engineering problems
+- 🤝 Experience collaborating with technical, operational, design, and business teams
+- 📍 Rio de Janeiro, Brazil
 
 ---
 
 ## Tech Stack
 
-### Languages & Core Technologies
+### Core Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,nodejs,php,js,python,react,html,css,mysql,postgres" />
@@ -98,32 +31,25 @@ My current career direction is focused on expanding these skills toward **softwa
 
 ### Back-end & Architecture
 
-- Fastify
-- CodeIgniter 4
-- Prisma ORM
-- PostgreSQL
-- MySQL
-- Redis
-- BullMQ
-- REST APIs
-- OpenAPI / Swagger
-- JWT Authentication
-- RBAC
-- Multi-tenant Architecture
+<p align="left">
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/BullMQ-FF4F4F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
+</p>
+
 - Modular Monolith Architecture
-- MVC Architecture
+- Multi-tenant Architecture
+- Authentication & Authorization
+- JWT + Refresh Token Rotation
+- RBAC
+- REST API Design
 - Asynchronous Processing
 - Workflow Engines
-
-### Front-end
-
-- React
-- TypeScript
-- Vite
-- Responsive Interfaces
-- API Integration
-- Authentication Flows
-- Operational Dashboards
+- Database Modeling
+- API Integrations
 
 ### Infrastructure & Engineering
 
@@ -131,39 +57,73 @@ My current career direction is focused on expanding these skills toward **softwa
   <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
 </p>
 
-- Docker
-- Docker Compose
-- GitHub Actions
-- CI/CD Fundamentals
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Observability-2F74C0?style=for-the-badge" />
+</p>
+
+- Docker & Docker Compose
 - Automated Testing
 - Structured Logging
-- Health & Readiness Checks
 - Metrics
-- OpenTelemetry Fundamentals
+- Health & Readiness Checks
+- OpenTelemetry fundamentals
+- GitHub Actions
 - Architecture Decision Records
-
-### Currently Deepening
-
-- Software Architecture
-- Back-end Architecture
-- Automated Testing
-- CI/CD
-- Observability
-- Application Security / OWASP
-- AI Agents
-- Event-driven Architecture
-- Cloud Architecture
-- Technical Leadership
+- Application Security
 
 ---
 
-# Featured Projects
+## What I Work With
+
+### Software Engineering
+
+I build and maintain applications, internal systems, APIs, dashboards, and digital products with focus on maintainability, reliability, and business value.
+
+### Automation & AI
+
+I develop solutions focused on reducing manual work, connecting systems, automating workflows, and applying AI in a controlled and useful way.
+
+### Architecture & Reliability
+
+I am deepening my work around architecture decisions, observability, incident management, security, testing, and operational reliability.
+
+### Technical Leadership
+
+My professional direction is focused on combining hands-on engineering with:
+
+- Technical decision-making
+- Requirements analysis
+- Backlog prioritization
+- Knowledge sharing
+- Architecture discussions
+- Stakeholder communication
+- Continuous improvement
+- Supporting less experienced professionals
+
+---
+
+# Featured Engineering Projects
 
 ## FlowPilot AI
 
-A multi-tenant workflow automation platform built to automate business processes through **workflows, asynchronous processing, conditional logic, integrations, and Artificial Intelligence**.
+### Workflow Automation Platform
 
-FlowPilot started as a back-end engineering project and evolved into a complete demonstrable product with an operational web interface for managing workflows, executions, tasks, audit logs, and system health.
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
+</p>
+
+A multi-tenant workflow automation platform designed to automate business processes through **asynchronous execution, conditional logic, integrations, task orchestration, and Artificial Intelligence**.
+
+FlowPilot started as a back-end engineering project and evolved into a complete product with an operational web interface.
 
 ### Product Capabilities
 
@@ -179,179 +139,122 @@ FlowPilot started as a back-end engineering project and evolved into a complete 
 - System health monitoring
 - Operational dashboard
 
-### Engineering Focus
+### Engineering Highlights
 
 - Modular Monolith Architecture
-- Multi-tenancy
-- REST API Design
-- Asynchronous Processing
-- Workflow Engine
-- Conditional Branching
-- Idempotency
-- Queue Processing
-- Authentication & RBAC
-- AI Provider Abstraction
-- HTTP Integrations
-- Observability
-- Application Security
-- Automated Testing
-- CI Pipeline
-- Architecture Decision Records
-
-### Tech Stack
-
-**Back-end:**  
-Node.js, TypeScript, Fastify, PostgreSQL, Prisma, Redis and BullMQ.
-
-**Web Interface:**  
-React, TypeScript and Vite.
-
-**Engineering:**  
-Docker, Vitest, OpenAPI, OpenTelemetry and GitHub Actions.
-
-### Architecture Highlights
-
-- API and worker separated through asynchronous queue processing
-- PostgreSQL as the system of record
-- Redis + BullMQ for background execution
-- Workflow version snapshots
+- Redis + BullMQ queue processing
+- API and worker separation
 - Idempotent workflow execution
+- Workflow version snapshots
 - JWT authentication with refresh token rotation
-- Organization-level tenant isolation
-- Safe HTTP integration layer with SSRF protections
-- Mockable AI provider architecture
-- Structured logging and request correlation
-- Metrics, health and readiness endpoints
-- Architecture decisions documented through ADRs
+- RBAC and tenant isolation
+- HTTP integration layer with SSRF protections
+- AI provider abstraction
+- Structured logging
+- Metrics and health checks
+- OpenTelemetry
+- Automated tests
+- CI pipeline
+- ADR documentation
 
-### Web Operations Console
+### Engineering Note
 
-The project also includes a web interface designed to make the workflow engine easier to operate and understand.
+During real Docker runtime validation, the API and worker failed because the logging configuration attempted to load `pino-pretty`, which was available only as a development dependency.
 
-The interface provides:
-
-- Dashboard with operational information
-- Workflow visualization and management
-- Workflow execution
-- Execution timeline and step results
-- Task management
-- Audit logs
-- System health information
-- Authentication and protected routes
-
-### Engineering Notes
-
-During the first complete Docker runtime validation, the API and worker failed because the logging configuration attempted to load `pino-pretty`, which was available only as a development dependency.
-
-The logging configuration was corrected so:
+The runtime configuration was corrected so:
 
 - development uses human-readable logs;
 - production uses structured JSON logs.
 
-A regression test was also added.
+A regression test was added after the fix.
 
-This reinforced an important engineering lesson:
-
-**A successful build and passing tests do not replace real runtime validation.**
+> **A successful build and passing tests do not replace real runtime validation.**
 
 **Repository:**  
 https://github.com/iMoraies/flowpilot-ai
 
 ---
 
-## 3D Line Ecommerce Platform
+## OpsBoard
 
-Full ecommerce platform designed for a personalized 3D printing business.
+### Incident Management & Reliability Platform
 
-The project was structured as a real business application covering customer experience, administration, product management, checkout, customization, and future integrations.
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
 
-### Engineering Focus
+A platform focused on **incident management, service health, availability, MTTR, postmortems, auditability, and operational reliability**.
 
-- Full-Stack Development
-- MVC Architecture
-- Database Modeling
-- Ecommerce Flows
-- Authentication
-- Administrative Tools
-- Product Customization
-- Business Rules
-- Integration-ready Architecture
+OpsBoard was built to explore how engineering teams can monitor services, respond to incidents, track reliability metrics, and document operational decisions.
 
-### Tech Stack
+### Product Capabilities
 
-PHP 8+, CodeIgniter 4, MySQL, HTML, CSS and JavaScript.
+- Service management
+- Service health tracking
+- Incident creation and lifecycle
+- Incident severity management
+- Incident timeline
+- Acknowledge / Investigate / Mitigate / Resolve flow
+- Postmortems
+- Audit logs
+- Availability tracking
+- MTTR calculation
+- Role-based access control
+- Multi-tenant isolation
+- System health dashboard
 
-### Main Features
+### Engineering Highlights
 
-- Product catalog and detail pages
-- Product variations and dynamic pricing
-- Shopping cart and checkout
-- Customer registration and account area
-- Administrative dashboard
-- Custom project request workflow
-- Product reviews with image uploads
-- Content and blog management
-- WhatsApp customer relationship flow
-- Architecture prepared for payment gateway integration
-- Architecture prepared for freight service integration
+- Modular Monolith Architecture
+- Incident state machine
+- Availability calculation
+- MTTR calculation
+- RBAC
+- Tenant isolation
+- JWT authentication
+- Refresh token rotation
+- Structured logging
+- Prometheus-compatible metrics
+- OpenTelemetry foundation
+- Health & readiness checks
+- Dockerized environment
+- Automated testing
+- CI pipeline
+- Architecture Decision Records
 
-**Repository:**  
-https://github.com/iMoraies/3D-Line-E-Commerce-Project
+### Architecture Decision
 
----
+BullMQ was evaluated for asynchronous metrics recalculation, but was intentionally not added.
 
-## Smart Appointment Manager CLI
+The current workload can be handled synchronously without introducing unnecessary queue complexity.
 
-Python application that models the business logic of an appointment management system.
+This decision was documented as a trade-off between:
 
-### Engineering Focus
-
-- Business Rules
-- Data Structures
-- Application Flow
-- Python Fundamentals
-- CLI Architecture
-
-### Tech Stack
-
-Python 3
-
-**Repository:**  
-https://github.com/iMoraies/smart-appointment-manager
-
----
-
-## Appointment Booking App
-
-Web application for appointment scheduling and local data persistence.
-
-### Engineering Focus
-
-- Application State
-- Business Logic
-- Client-side Persistence
-- User Flow
-- Clean Code Organization
-
-### Tech Stack
-
-HTML5, CSS3 and Vanilla JavaScript ES6.
+**simplicity, operational cost, and future scalability.**
 
 **Repository:**  
-https://github.com/iMoraies/appointment-bookin-app
+https://github.com/iMoraies/opsboard
 
 ---
 
 # Current Engineering Focus
 
-I'm currently deepening my knowledge in:
+I'm currently deepening my knowledge and practice in:
 
 - Software Architecture
 - Back-end Architecture
-- Node.js & TypeScript
+- System Design
 - Automated Testing
 - CI/CD
 - Observability
+- Reliability Engineering
+- Incident Management
 - Application Security
 - AI Agents
 - AI-powered Automation
@@ -359,20 +262,39 @@ I'm currently deepening my knowledge in:
 - Cloud Architecture
 - Technical Leadership
 
-My goal is to evolve toward roles where I can combine **hands-on software engineering, architecture, automation, AI, business understanding, and technical leadership**.
+My goal is to evolve toward roles where I can combine:
+
+**hands-on software engineering + architecture + automation + AI + reliability + business understanding + technical leadership**
 
 ---
 
-## Let's Connect
+## GitHub Activity
 
-**Portfolio:**  
-https://madebytheux.com
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iMoraies&show_icons=true&hide_border=true&theme=github_dark" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMoraies&layout=compact&hide_border=true&theme=github_dark" />
+</p>
 
-**LinkedIn:**  
-https://www.linkedin.com/in/moraies/
+---
 
-**Email:**  
-moraeesdeveloper@gmail.com
+## Connect With Me
 
-**GitHub:**  
-https://github.com/iMoraies
+<p align="left">
+
+<a href="https://www.linkedin.com/in/moraies/">
+  <img src="https://img.shields.io/badge/LinkedIn-Matheus_Moraes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/iMoraies">
+  <img src="https://img.shields.io/badge/GitHub-iMoraies-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://madebytheux.com">
+  <img src="https://img.shields.io/badge/Portfolio-madebytheux.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="mailto:moraeesdeveloper@gmail.com">
+  <img src="https://img.shields.io/badge/Email-moraeesdeveloper%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
