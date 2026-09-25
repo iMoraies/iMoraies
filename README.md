@@ -1,185 +1,234 @@
 # Hi, I'm Matheus Moraes 👋
 
-### Software Engineering | Automation & AI | Technical Leadership
+### Software Engineering | Automation & AI | Architecture | Technical Leadership
 
-Software developer focused on **back-end engineering, business systems, process automation, AI-assisted solutions, and digital products**.
+Software developer focused on **back-end engineering, business systems, process automation, AI-assisted solutions, reliability, and digital products**.
 
-My work combines **software engineering, architecture, automation, UX/UI, observability, and business problem-solving**. I enjoy understanding real operational needs, translating them into technical solutions, and taking projects from requirements and architecture to implementation, deployment, validation, and continuous improvement.
+I enjoy understanding real operational problems, translating them into technical solutions, and taking projects from **requirements and architecture to implementation, testing, deployment, runtime validation, and continuous improvement**.
 
-I currently work with systems used in real business environments, developing applications, automating processes, supporting production solutions, and collaborating with technical and non-technical teams.
+My background combines software development, automation, infrastructure, UX/UI, production support, and collaboration with technical and non-technical teams.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/moraies/">
+    <img src="https://img.shields.io/badge/LinkedIn-Matheus_Moraes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://madebytheux.com">
+    <img src="https://img.shields.io/badge/Portfolio-madebytheux.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:moraeesdeveloper@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## About Me
+# About Me
 
 - 🎓 Graduate in **Systems Analysis and Development**
 - 💻 Working with **software development, automation, systems, and digital products**
-- 🧠 Deepening my knowledge in **Software Architecture, AI, Observability, Security, and Technical Leadership**
-- 🏗️ Building portfolio projects focused on real engineering problems
-- 🤝 Experience collaborating with technical, operational, design, and business teams
+- 🏗️ Building projects focused on real software engineering problems
+- ⚙️ Interested in **back-end systems, architecture, automation, reliability, and AI**
+- 🤝 Experience collaborating with technical, operational, business, and design teams
+- 🧠 Deepening my knowledge in **Software Architecture, Observability, Security, AI, and Technical Leadership**
 - 📍 Rio de Janeiro, Brazil
 
 ---
 
-## Tech Stack
+# Tech Stack
 
-### Core Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,php,js,python,react,html,css,mysql,postgres" />
-</p>
-
-### Back-end & Architecture
+## Languages & Front-end
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/BullMQ-FF4F4F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,php,js,python,react,html,css" />
 </p>
 
-- Modular Monolith Architecture
-- Multi-tenant Architecture
-- Authentication & Authorization
-- JWT + Refresh Token Rotation
-- RBAC
-- REST API Design
-- Asynchronous Processing
-- Workflow Engines
-- Database Modeling
-- API Integrations
+## Data & Persistence
 
-### Infrastructure & Engineering
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+</p>
+
+## Infrastructure & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
 </p>
 
+## Back-end & Engineering
+
 <p align="left">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
-  <img src="https://img.shields.io/badge/Observability-2F74C0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/BullMQ-EA4C4C?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
 </p>
 
-- Docker & Docker Compose
-- Automated Testing
-- Structured Logging
-- Metrics
-- Health & Readiness Checks
-- OpenTelemetry fundamentals
-- GitHub Actions
-- Architecture Decision Records
-- Application Security
+### Architecture & Engineering Practices
+
+`Modular Monolith`
+`Multi-tenancy`
+`REST APIs`
+`RBAC`
+`JWT`
+`Refresh Token Rotation`
+`Workflow Engines`
+`Async Processing`
+`Queues`
+`Observability`
+`Structured Logging`
+`Metrics`
+`Tracing`
+`Docker`
+`CI/CD`
+`Automated Testing`
+`ADRs`
+`OWASP Fundamentals`
 
 ---
 
-## What I Work With
+# What I Work With
 
 ### Software Engineering
 
-I build and maintain applications, internal systems, APIs, dashboards, and digital products with focus on maintainability, reliability, and business value.
+I build and maintain applications, APIs, internal systems, dashboards, and digital products with focus on **maintainability, reliability, security, and business value**.
 
 ### Automation & AI
 
-I develop solutions focused on reducing manual work, connecting systems, automating workflows, and applying AI in a controlled and useful way.
+I develop solutions focused on reducing manual work, connecting systems, orchestrating workflows, and applying AI to practical business problems.
 
 ### Architecture & Reliability
 
-I am deepening my work around architecture decisions, observability, incident management, security, testing, and operational reliability.
+I am deepening my work around architecture decisions, observability, incident management, security, testing, operational reliability, and system design.
 
 ### Technical Leadership
 
-My professional direction is focused on combining hands-on engineering with:
+My professional direction combines hands-on engineering with:
 
 - Technical decision-making
 - Requirements analysis
 - Backlog prioritization
-- Knowledge sharing
 - Architecture discussions
+- Risk analysis
+- Knowledge sharing
 - Stakeholder communication
-- Continuous improvement
 - Supporting less experienced professionals
+- Continuous improvement
+- Product and Engineering alignment
 
 ---
 
 # Featured Engineering Projects
 
-## FlowPilot AI
+These projects explore **different areas of software engineering** instead of repeating the same application pattern.
 
-### Workflow Automation Platform
+| Project | Main Engineering Focus |
+| --- | --- |
+| **FlowPilot AI** | Automation, asynchronous processing & AI |
+| **OpsBoard** | Reliability, incidents & observability |
+| **TeamForge** | Technical leadership, architecture & engineering execution |
 
-<p>
+---
+
+# 01 — FlowPilot AI
+
+## Workflow Automation & AI Platform
+
+<p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/BullMQ-EA4C4C?style=flat-square" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-A multi-tenant workflow automation platform designed to automate business processes through **asynchronous execution, conditional logic, integrations, task orchestration, and Artificial Intelligence**.
+A multi-tenant workflow automation platform designed to automate business processes through **workflow orchestration, asynchronous execution, conditional logic, integrations, tasks, and AI-based classification**.
 
-FlowPilot started as a back-end engineering project and evolved into a complete product with an operational web interface.
+FlowPilot started as a back-end engineering project and evolved into a complete demonstrable product with an operational web console.
 
 ### Product Capabilities
 
 - Workflow creation and management
-- Conditional workflow execution
+- Conditional execution
 - AI-based classification
 - Asynchronous job processing
-- Task generation and management
-- Execution tracking
+- Task creation and management
+- Execution history
 - Audit logs
-- Role-based access control
 - Multi-tenant isolation
+- Role-based access control
 - System health monitoring
 - Operational dashboard
 
+### Architecture
+
+```mermaid
+flowchart TD
+    WEB[React Web Console] --> API[Fastify API]
+
+    API --> DB[(PostgreSQL)]
+    API --> REDIS[(Redis)]
+
+    REDIS --> QUEUE[BullMQ Queue]
+    QUEUE --> WORKER[Worker]
+
+    WORKER --> DB
+```
+
 ### Engineering Highlights
 
-- Modular Monolith Architecture
-- Redis + BullMQ queue processing
+- Modular monolith architecture
+- Organization-level tenant isolation
 - API and worker separation
-- Idempotent workflow execution
+- Redis + BullMQ asynchronous processing
+- Workflow execution engine
+- Conditional branching
+- Idempotent execution
 - Workflow version snapshots
-- JWT authentication with refresh token rotation
-- RBAC and tenant isolation
-- HTTP integration layer with SSRF protections
+- JWT authentication
+- Refresh token rotation
+- RBAC
+- HTTP integrations
+- SSRF protection
 - AI provider abstraction
 - Structured logging
-- Metrics and health checks
-- OpenTelemetry
-- Automated tests
-- CI pipeline
-- ADR documentation
+- Request correlation
+- Metrics
+- Health & readiness endpoints
+- OpenTelemetry foundation
+- Automated testing
+- GitHub Actions CI
+- Architecture Decision Records
 
-### Engineering Note
+### Engineering Lesson
 
-During real Docker runtime validation, the API and worker failed because the logging configuration attempted to load `pino-pretty`, which was available only as a development dependency.
+During complete Docker runtime validation, the API and worker initially failed because the production logging configuration attempted to load `pino-pretty`, which existed only as a development dependency.
 
 The runtime configuration was corrected so:
 
 - development uses human-readable logs;
 - production uses structured JSON logs.
 
-A regression test was added after the fix.
+A regression test was also added.
 
 > **A successful build and passing tests do not replace real runtime validation.**
 
-**Repository:**  
-https://github.com/iMoraies/flowpilot-ai
+### Repository
+
+[github.com/iMoraies/flowpilot-ai](https://github.com/iMoraies/flowpilot-ai)
 
 ---
 
-## OpsBoard
+# 02 — OpsBoard
 
-### Incident Management & Reliability Platform
+## Incident Management & Reliability Platform
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" />
@@ -189,57 +238,295 @@ https://github.com/iMoraies/flowpilot-ai
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-A platform focused on **incident management, service health, availability, MTTR, postmortems, auditability, and operational reliability**.
+OpsBoard is a platform focused on **incident management, service health, availability, MTTR, postmortems, auditability, and operational reliability**.
 
-OpsBoard was built to explore how engineering teams can monitor services, respond to incidents, track reliability metrics, and document operational decisions.
+The project explores how engineering teams can respond to failures, understand service health, document operational incidents, and measure reliability.
 
 ### Product Capabilities
 
-- Service management
+- Service catalog
 - Service health tracking
-- Incident creation and lifecycle
-- Incident severity management
+- Incident creation
+- Severity management
+- Incident lifecycle
 - Incident timeline
-- Acknowledge / Investigate / Mitigate / Resolve flow
+- Notes and mitigation events
+- Incident resolution
 - Postmortems
-- Audit logs
 - Availability tracking
 - MTTR calculation
-- Role-based access control
+- Audit logs
 - Multi-tenant isolation
-- System health dashboard
+- RBAC
+- Operational dashboard
+
+### Incident Lifecycle
+
+```mermaid
+flowchart LR
+    OPEN[OPEN] --> ACK[ACKNOWLEDGED]
+    ACK --> INVESTIGATING[INVESTIGATING]
+    INVESTIGATING --> MITIGATED[MITIGATED]
+    MITIGATED --> RESOLVED[RESOLVED]
+```
+
+### Architecture
+
+```mermaid
+flowchart TD
+    WEB[React Operations Console] --> API[Fastify API]
+
+    API --> DB[(PostgreSQL)]
+    API --> REDIS[(Redis)]
+
+    API --> METRICS[Prometheus-compatible Metrics]
+    API --> TELEMETRY[OpenTelemetry]
+```
 
 ### Engineering Highlights
 
-- Modular Monolith Architecture
+- Modular monolith architecture
 - Incident state machine
+- Multi-tenant isolation
 - Availability calculation
 - MTTR calculation
-- RBAC
-- Tenant isolation
+- Service health rules
 - JWT authentication
 - Refresh token rotation
+- RBAC
+- Audit trail
 - Structured logging
 - Prometheus-compatible metrics
 - OpenTelemetry foundation
 - Health & readiness checks
-- Dockerized environment
+- Dockerized runtime
 - Automated testing
-- CI pipeline
+- GitHub Actions CI
 - Architecture Decision Records
 
 ### Architecture Decision
 
-BullMQ was evaluated for asynchronous metrics recalculation, but was intentionally not added.
+BullMQ was evaluated for asynchronous metrics recalculation but was intentionally **not added**.
 
-The current workload can be handled synchronously without introducing unnecessary queue complexity.
+The current workload can be handled synchronously without introducing queue infrastructure unnecessarily.
 
-This decision was documented as a trade-off between:
+This decision represents a trade-off between:
 
-**simplicity, operational cost, and future scalability.**
+**simplicity ↔ operational complexity ↔ future scalability**
 
-**Repository:**  
-https://github.com/iMoraies/opsboard
+The architecture can evolve if the workload later justifies asynchronous processing.
+
+### Repository
+
+[github.com/iMoraies/opsboard](https://github.com/iMoraies/opsboard)
+
+---
+
+# 03 — TeamForge
+
+## Engineering Leadership & Technical Execution Platform
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+TeamForge is a platform designed around **technical leadership, engineering execution, prioritization, architecture decisions, technical risks, and Product/Engineering alignment**.
+
+Instead of being another generic task manager, TeamForge explores the information a technical leader needs to understand:
+
+- what the team is building;
+- what is blocked;
+- which technical decisions are pending;
+- what risks are threatening delivery;
+- how priorities are changing;
+- what technical debt exists;
+- who is responsible for each area.
+
+### Product Capabilities
+
+- Team management
+- Project management
+- Backlog
+- Sprint lifecycle
+- Business value
+- Technical complexity
+- Prioritization
+- Blocked item management
+- Technical debt tracking
+- Architecture decisions
+- ADR-style records
+- Decision approval
+- Decision supersession
+- Risk management
+- Risk scoring
+- Mitigation plans
+- Comments
+- Audit trail
+- RBAC
+- Multi-tenancy
+- Engineering dashboard
+
+### Engineering Execution Model
+
+```mermaid
+flowchart TD
+    ORG[Organization] --> TEAM[Engineering Team]
+    TEAM --> PROJECT[Project]
+
+    PROJECT --> BACKLOG[Backlog]
+    PROJECT --> SPRINT[Sprints]
+    PROJECT --> DECISIONS[Technical Decisions]
+    PROJECT --> RISKS[Engineering Risks]
+
+    BACKLOG --> EXECUTION[Engineering Execution]
+    SPRINT --> EXECUTION
+
+    DECISIONS --> GOVERNANCE[Technical Governance]
+    RISKS --> GOVERNANCE
+```
+
+### Decision Lifecycle
+
+```mermaid
+flowchart LR
+    PROPOSED[PROPOSED] --> ACCEPTED[ACCEPTED]
+    PROPOSED --> REJECTED[REJECTED]
+    ACCEPTED --> SUPERSEDED[SUPERSEDED]
+```
+
+### Risk Model
+
+Risk scoring uses a simple model based on:
+
+**Probability × Impact**
+
+The goal is not to create an absolute prediction, but to provide a consistent tool for comparing technical and delivery risks.
+
+Examples of risk categories:
+
+`Technical`
+`Delivery`
+`Security`
+`Dependency`
+`People`
+`Product`
+
+### Engineering Highlights
+
+- Modular monolith architecture
+- Multi-tenant isolation
+- ADMIN / TECH_LEAD / DEVELOPER / PRODUCT RBAC
+- Project health model
+- Backlog lifecycle
+- Sprint lifecycle
+- Technical decision state machine
+- Decision supersession
+- Architecture Decision Records
+- Risk scoring
+- Risk mitigation
+- Audit logging
+- Comments
+- JWT authentication
+- Refresh token rotation
+- Structured logging
+- Health & readiness endpoints
+- Metrics
+- Docker
+- Automated tests
+- GitHub Actions CI
+- Technical documentation
+
+### Architecture Decision
+
+Redis was evaluated but intentionally **not introduced**.
+
+There was no strong caching or asynchronous processing requirement that justified the additional infrastructure.
+
+This decision keeps the architecture simpler while preserving the possibility of introducing Redis later when supported by measurable requirements.
+
+> **Technology should solve a problem, not exist only to increase the size of the stack.**
+
+### Repository
+
+[github.com/iMoraies/teamforge](https://github.com/iMoraies/teamforge)
+
+---
+
+# The Engineering Journey Behind These Projects
+
+The three projects were intentionally designed to explore different engineering challenges.
+
+```text
+FlowPilot AI
+     │
+     ├── Automation
+     ├── Workflows
+     ├── Queues
+     ├── AI
+     └── Async Processing
+
+OpsBoard
+     │
+     ├── Reliability
+     ├── Incidents
+     ├── Availability
+     ├── MTTR
+     └── Observability
+
+TeamForge
+     │
+     ├── Technical Leadership
+     ├── Backlog & Sprints
+     ├── Architecture Decisions
+     ├── Risk Management
+     └── Engineering Execution
+```
+
+Together, they allow me to practice not only **how to write code**, but also how to think about:
+
+- architecture;
+- failure;
+- operations;
+- security;
+- technical trade-offs;
+- maintainability;
+- team execution;
+- business context;
+- technical leadership.
+
+---
+
+# Engineering Principles
+
+### Build for the current problem
+
+Avoid unnecessary complexity and introduce infrastructure only when there is a clear reason.
+
+### Validate at runtime
+
+Passing tests and builds are important, but the actual application must also run correctly in a realistic environment.
+
+### Document decisions
+
+Architecture Decision Records help preserve context, alternatives, consequences, and trade-offs.
+
+### Security belongs in the architecture
+
+Authentication, authorization, tenant isolation, input validation, secrets, and logging need to be considered from the beginning.
+
+### Observability is part of the product
+
+Logs, health checks, metrics, request correlation, and tracing foundations help make systems understandable when something goes wrong.
+
+### Architecture is about trade-offs
+
+There is rarely one perfect technology or architecture. The important part is understanding the context and being able to explain why a decision was made.
 
 ---
 
@@ -250,34 +537,28 @@ I'm currently deepening my knowledge and practice in:
 - Software Architecture
 - Back-end Architecture
 - System Design
+- Node.js & TypeScript
 - Automated Testing
 - CI/CD
 - Observability
 - Reliability Engineering
 - Incident Management
 - Application Security
+- OWASP
 - AI Agents
 - AI-powered Automation
 - Event-driven Architecture
 - Cloud Architecture
 - Technical Leadership
+- Engineering Communication
 
 My goal is to evolve toward roles where I can combine:
 
-**hands-on software engineering + architecture + automation + AI + reliability + business understanding + technical leadership**
+> **hands-on software engineering + architecture + automation + AI + reliability + business understanding + technical leadership**
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iMoraies&show_icons=true&hide_border=true&theme=github_dark" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMoraies&layout=compact&hide_border=true&theme=github_dark" />
-</p>
-
----
-
-## Connect With Me
+# Connect With Me
 
 <p align="left">
 
@@ -297,4 +578,10 @@ My goal is to evolve toward roles where I can combine:
   <img src="https://img.shields.io/badge/Email-moraeesdeveloper%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+</p>
+
+---
+
+<p align="center">
+  <b>Software Engineering • Architecture • Automation • Reliability • AI • Technical Leadership</b>
 </p>
